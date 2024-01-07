@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: b31515ce6becbe94d9f74859bc1df3a5
+  - enabled: 1
+    path: Assets/Scenes/Settings Menu.unity
+    guid: 4c8ca59322099134f996a4b12fd48d1e
+  - enabled: 1
+    path: Assets/Scenes/Level List.unity
+    guid: b3083487f7b4b1248a8666ec14745c35
+  - enabled: 1
+    path: Assets/Scenes/Level 1/Choose Answer.unity
+    guid: 0df9c887bb0c07945a42075bd59c2cb8
+  - enabled: 1
+    path: Assets/Scenes/Level 1/Pause Menu.unity
+    guid: f5435d418dbbbf04bb80789e06c177a1
+  - enabled: 1
+    path: Assets/Scenes/Level 1/Settings In Pause.unity
+    guid: a9e87dc53cc506549b72516b42fb4cfd
+  - enabled: 1
+    path: Assets/Scenes/Level 2/Choose Answer 2.unity
+    guid: 8e3c97689463cec4a9fafe03fca9ea14
+  - enabled: 1
+    path: Assets/Scenes/Level 2/Pause Menu 2.unity
+    guid: 296a8e9515a0e704ebdf341aad4cd0a1
+  - enabled: 1
+    path: Assets/Scenes/Level 2/Settings In Pause 2.unity
+    guid: dac796269eddad849b3ab7de3452dc85
+  - enabled: 1
+    path: Assets/Scenes/Level 3/Choose Answer 3.unity
+    guid: 49834d4900c47e945bc3f186e1947d2d
+  - enabled: 1
+    path: Assets/Scenes/Level 4/Choose Answer 4.unity
+    guid: e1c5e6b33e6c2fa4c85d38976c995564
+  - enabled: 1
+    path: Assets/Scenes/Level 5/Choose Answer 5.unity
+    guid: 9191cff9de3928542ad31a7150a9ed1b
+  - enabled: 1
+    path: Assets/Scenes/Level 6/Choose Answer 6.unity
+    guid: aa046e6231596344c9204c6c72626e88
+  - enabled: 1
+    path: Assets/Scenes/Level 7/Choose Answer 7.unity
+    guid: 9baa28e13d96a4246a4cbf2c3e3ddef3
+  - enabled: 1
+    path: Assets/Scenes/Level 8/Choose Answer 8.unity
+    guid: d6b201f2bbc61cd47b31d7714b4cdba5
+  - enabled: 1
+    path: Assets/Scenes/Level 9/Choose Answer 9.unity
+    guid: 8229fecc299153547b06b00e39e006ae
+  - enabled: 1
+    path: Assets/Scenes/Level 10/Choose Answer 10.unity
+    guid: b346cbc366c0b5947a7f75aa68bc944a
+  m_configObjects: {}
